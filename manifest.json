@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Fueling Your Fire",
+  "author": "Sarthak",
+  "version": "1.0",
+  "description": "Get inspired by THE quotes!",
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "fire.png",
+    "128": "fire.png"
+  }
+}
